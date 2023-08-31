@@ -1,0 +1,11 @@
+.caroSlide {
+  width: 100%;
+  height: calc(100vh - 75px);
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  img {
+    width: 100vw;
+    object-fit: cover;
+  }
+}

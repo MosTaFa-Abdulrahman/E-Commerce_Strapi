@@ -1,0 +1,15 @@
+.featuredProducts {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+  h1 {
+    text-align: center;
+    margin: 10px 0px;
+  }
+
+  .bottom {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+  }
+}
